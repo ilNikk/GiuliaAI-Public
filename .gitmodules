@@ -1,6 +1,10 @@
 [submodule "unity"]
 	path = unity
 	url = https://github.com/nicolapanegos/GiuliaAI-unity
+	branch = main
+
 [submodule "core"]
 	path = core
 	url = https://github.com/nicolapanegos/GiuliaAI-core
+	branch = main
+
