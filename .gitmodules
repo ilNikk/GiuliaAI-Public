@@ -4,3 +4,6 @@
 [submodule "unity"]
 	path = unity
 	url = https://github.com/nicolapanegos/GiuliaAI-unity
+[submodule "core"]
+	path = core
+	url = https://github.com/nicolapanegos/GiuliaAI-core
